@@ -68,20 +68,3 @@ Comprehensive documentation of:
 - Data sources and definitions
 
 This section supports transparency, reproducibility, and reuse of the analyses.
-
----
-
-## Data & Methodology Overview
-
-The repository integrates:
-- Environmental sensor data
-- Publicly available air quality datasets
-- Longitudinal and spatial data sources
-
-Analyses emphasize:
-- Temporal trends
-- Comparative site analysis
-- Environmental exposure patterns
-- Clear visualization and interpretation
-
----
